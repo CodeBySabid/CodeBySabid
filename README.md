@@ -17,7 +17,7 @@
 - 🤖 Currently Learning: Artificial Intelligence (AI)
 - 🎯 Career Goal: Become a Software Engineer
 - 🧠 Interest: AI & Smart Systems
-- 🌐 Explore My Portfolio [CodeBySabid](https://portfolio-3mt.pages.dev/) and My Resume
+- 🌐 Explore My Portfolio [CodeBySabid](https://my-portfolio-9xr.pages.dev/) and My Resume
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sajjad-hossain-sabid)
 - 📫 Feel free to reach out to me via [Email](sajjadsabid0@gmail.com)
 
