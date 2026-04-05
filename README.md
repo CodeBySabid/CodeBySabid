@@ -75,6 +75,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeBySabid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=codebysabid&theme=radical" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeBySabid&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+</p>
